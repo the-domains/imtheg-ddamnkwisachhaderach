@@ -1,3 +1,7 @@
+name: "I'm the G-ddamn Kwisatz Haderach"
+favicon: null
+layout_spectrum: 0.9824561
+typography_spectrum: 0.8796992
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.8796992
+title: "I'm the G-ddamn Kwisatz Haderach"
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.08113102
-  brandStrength: 1
-  rhythmicContrast: 0.5109597
   brandColors:
     - '#010302'
     - '#1E2938'
     - '#FFFCF2'
     - '#B4A391'
     - '#885C39'
+  brandStrength: 1
   lightness: 0.188172
-layout_spectrum: 0.9824561
-name: Imtheg-ddamnkwisatzhaderach
+  saturation: 0.08113102
+  rhythmicContrast: 0.5109597
+purpose: []
