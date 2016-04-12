@@ -10,10 +10,11 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.8796992
 color:
   saturation: 0.08113102
   brandStrength: 1
-  lightness: 0.7367576
+  lightness: 0.188172
   brandColors:
     - '#010302'
     - '#1E2938'
@@ -21,6 +22,5 @@ color:
     - '#B4A391'
     - '#885C39'
   rhythmicContrast: 0.5109597
-typography_spectrum: 0.8796992
 layout_spectrum: 0.2907268
 name: Imtheg-ddamnkwisatzhaderach
