@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Imtheg-ddamnkwisatzhaderach]]></title>
         <description><![CDATA[Imtheg-ddamnkwisatzhaderach]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/imtheg-ddamnkwisachhaderach/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 21:51:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Apr 2016 22:03:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/imtheg-ddamnkwisachhaderach/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5f4ebe6-ece7-49a8-a7ef-d1b720d37f39.png">]]></description>
+            <link>https://thegrid.ai/imtheg-ddamnkwisachhaderach/d72364f7-f8cd-4401-9666-757e5c81ce59/index.html</link>
+            <guid isPermaLink="false">d72364f7-f8cd-4401-9666-757e5c81ce59</guid>
+            <pubDate>Tue, 12 Apr 2016 22:01:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0ea29a8-5a3a-49ed-b1c1-fb28990bae5f.png">]]></description>
-            <link>undefined52148005-b382-43f7-9aae-3438746d7e90/index.html</link>
+            <link>https://thegrid.ai/imtheg-ddamnkwisachhaderach/52148005-b382-43f7-9aae-3438746d7e90/index.html</link>
             <guid isPermaLink="false">52148005-b382-43f7-9aae-3438746d7e90</guid>
             <pubDate>Tue, 12 Apr 2016 21:50:18 GMT</pubDate>
         </item>
