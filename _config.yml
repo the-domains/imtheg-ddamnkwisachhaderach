@@ -1,14 +1,23 @@
-layout_spectrum: 0.3121639
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.6671311
 color:
   saturation: 0.08113102
-  lightness: 0.7367576
   brandStrength: 0.9985487
-  rhythmicContrast: 0.5109597
+  lightness: 0.7367576
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#030204'
+    - '#5B5C61'
+  rhythmicContrast: 0.5109597
+layout_spectrum: 0.3121639
 name: Imtheg-ddamnkwisachhaderach
