@@ -1,6 +1,6 @@
 name: "I'm the G-ddamn Kwisatz Haderach"
 favicon: null
-layout_spectrum: 0.9824561
+layout_spectrum: 0.50193
 typography_spectrum: 0.8796992
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#FFFCF2'
     - '#B4A391'
     - '#885C39'
-  brandStrength: 1
-  lightness: 0.188172
-  saturation: 0.08113102
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.5109597
 purpose: []
